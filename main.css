@@ -17,3 +17,27 @@ p {
 }
 
 
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  font-family: Arial;
+}
+
+/* Alternate row color */
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+/* Optional: make headings clean */
+h2 {
+  font-size: 25px;
+  font-family: Arial;
+  margin-top: 20px;
+}
