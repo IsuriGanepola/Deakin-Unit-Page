@@ -41,3 +41,8 @@ h2 {
   font-family: Arial;
   margin-top: 20px;
 }
+
+div {
+  background-color: darkcyan;
+  text-align: right;
+}
